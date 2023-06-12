@@ -28,6 +28,7 @@ console.log ('Hello World)
 ```
 1. Item One
 2. Item Two
+2. Item Three (notice that even though it is not 3. in the editor code it still shows as 3 in the preview)
 
 - Unordered List Item One
 - Unordered List Item Two
