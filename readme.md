@@ -53,3 +53,6 @@ unclickable link:
 ### Image Linking
 
 [image link](./image/FreethenipplePOC.jpeg)
+
+![image link](./image/FreethenipplePOC.jpeg)
+
