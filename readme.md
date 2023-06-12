@@ -1,6 +1,6 @@
 # Scor Sah
 
 
-| Andrei | | David |
-| ------ | | ----- |
-| 0 | | 3 |
+| Andrei | David |
+| ------ | ----- |
+| 0 | 3 |
