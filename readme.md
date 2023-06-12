@@ -57,7 +57,11 @@ unclickable link:
 ![image link](./image/FreethenipplePOC.jpeg)
 
 ### Emojys
-:smile:
+:smile: 
+
+ :poop:
+ 
+ :abacus:
 
 ### Tables
 
