@@ -36,7 +36,7 @@ console.log ('Hello World)
    
 
 - [x] check mark box
-- [] uncheck mark box
+- [ ] uncheck mark box
 
 link: https://www.google.com
 
